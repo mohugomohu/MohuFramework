@@ -1,0 +1,15 @@
+C:\Documents and Settings\Administrator\桌面\MohuFramework\MohuFramework\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\MohuFramework\MohuFramework\bin\Debug\MohuFramework.dll
+C:\Documents and Settings\Administrator\桌面\MohuFramework\MohuFramework\bin\Debug\MohuFramework.pdb
+C:\Documents and Settings\Administrator\桌面\MohuFramework\MohuFramework\obj\Debug\MohuFramework.dll
+C:\Documents and Settings\Administrator\桌面\MohuFramework\MohuFramework\obj\Debug\MohuFramework.pdb
+D:\my\自己的\asp.net\MohuFramework\MohuFramework\bin\Debug\MohuFramework.dll
+D:\my\自己的\asp.net\MohuFramework\MohuFramework\bin\Debug\MohuFramework.pdb
+D:\my\自己的\asp.net\MohuFramework\MohuFramework\obj\Debug\ResolveAssemblyReference.cache
+D:\my\自己的\asp.net\MohuFramework\MohuFramework\obj\Debug\MohuFramework.dll
+D:\my\自己的\asp.net\MohuFramework\MohuFramework\obj\Debug\MohuFramework.pdb
+D:\work\MohuFramework\MohuFramework\bin\Debug\MohuFramework.dll
+D:\work\MohuFramework\MohuFramework\bin\Debug\MohuFramework.pdb
+D:\work\MohuFramework\MohuFramework\obj\Debug\ResolveAssemblyReference.cache
+D:\work\MohuFramework\MohuFramework\obj\Debug\MohuFramework.dll
+D:\work\MohuFramework\MohuFramework\obj\Debug\MohuFramework.pdb

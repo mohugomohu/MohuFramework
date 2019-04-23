@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+  <AppSettings>
+    <UploadImagePath>/upload/images/</UploadImagePath>
+    <AllowUploadImageExtension>.jpg,.png,.jpeg,.gif,.bmp</AllowUploadImageExtension>
+    <AdminLoginUrl>/admin/SysLogin.html</AdminLoginUrl>
+  </AppSettings>
+	<!--<ConnectionString>Data Source=pcbeta-PC\MYTEST;Initial Catalog=Cncm;uid=sa;pwd=9:;&lt;uwp}</ConnectionString>-->
+  <!--<ConnectionString>Data Source=.\sqlexpress;Initial Catalog=BayerMS;uid=sa;pwd=1234mohu</ConnectionString>-->
+  <ConnectionString>Data Source=192.168.16.2,5000;Initial Catalog=BayerMS;uid=sa;pwd=;9&lt;9=A:&gt;</ConnectionString>
+  <!--<ConnectionString>Data Source=www.huarenwl.com,5000;Initial Catalog=BayerMS;uid=sa;pwd=;9&lt;9=A:&gt;</ConnectionString>-->
+</Configuration>
